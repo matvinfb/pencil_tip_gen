@@ -1,0 +1,30 @@
+# Ambiente virtual (cada um cria o seu: veja o README)
+.venv/
+venv/
+
+# Arquivos gerados pelo programa
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Backups e arquivos compactados
+*.7z
+*.zip
+*.tar.gz
+
+# Editores e sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

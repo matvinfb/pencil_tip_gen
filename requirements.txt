@@ -1,0 +1,8 @@
+click>=8.1
+numpy>=1.26
+shapely>=2.0
+trimesh>=4.0
+manifold3d>=2.5
+mapbox-earcut>=1.0
+fonttools>=4.50
+pytest>=8.0

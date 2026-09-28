@@ -1,0 +1,4 @@
+# Um nome por linha. Linhas vazias e comecadas por # sao ignoradas.
+ALICE
+Bruno
+Carla
